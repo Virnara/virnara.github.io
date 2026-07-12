@@ -1,17 +1,33 @@
-# Virnara Portfolio — Mark II
+# 🌐 Virnara Portfolio
 
-Website personal branding dan pusat identitas digital Virnara. Proyek ini dibangun dengan fokus pada performa tinggi, desain modern yang responsif, serta implementasi Semantic HTML untuk optimasi struktur kode.
+Official personal portfolio website of **Virnara (Radel Virdiana)**.
 
-## 🛠️ Tech Stack
-- **Frontend:** Vanilla HTML5, CSS3, JavaScript (ES6+)
-- **Hosting/Deployment:** GitHub Pages
+## 📸 Preview
+![Preview](assets/images/preview.png)
 
-## 🚀 Fitur Utama
-- **Interactive Glow Aura Background:** Efek pencahayaan dinamis yang mengikuti pergerakan kursor.
-- **Responsive Architecture:** Tampilan yang optimal baik di perangkat desktop maupun *mobile*.
-- **Semantic Structure:** Penggunaan tag HTML5 modern untuk aksesibilitas dan SEO dasar yang lebih baik.
+## ✨ Overview
+This project represents my personal portfolio, showcasing my projects, technical skills, and professional journey as an Information Systems student focusing on Web Development and Internet of Things.
 
-## ⚙️ Cara Menjalankan Secara Lokal
-1. *Clone* repositori ini:
-   ```bash
-   git clone [https://github.com/Virnara/virnara.github.io.git](https://github.com/Virnara/virnara.github.io.git)
+## 🚀 Features
+- **Responsive Design:** Optimized layout for mobile, tablet, and desktop viewports.
+- **Modern Minimalist UI:** Futuristic dark theme featuring an interactive glow aura background.
+- **Semantic Architecture:** Clean and structured code base utilizing HTML5 semantic tags.
+- **Project Showcase:** Transparent classification for personal and collaborative software/IoT works.
+
+## 🛠 Tech Stack
+- **Frontend:** HTML5, CSS3, Vanilla JavaScript (ES6+)
+- **Hosting:** GitHub Pages
+
+## 📂 Project Structure
+```text
+virnara.github.io/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── images/
+│   │   ├── logo-transparent.png
+│   │   └── preview.png
+│   └── js/
+│       └── script.js
+├── index.html
+└── README.md
