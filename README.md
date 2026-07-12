@@ -1,5 +1,7 @@
 # 🌐 Virnara Portfolio
 
+Official personal portfolio of **Virnara** — showcasing projects, skills, and continuous learning in Web Development and Internet of Things.
+
 [![Live Website](https://img.shields.io/badge/Live--Website-virnara.github.io-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://virnara.github.io)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +19,7 @@ Virnara Portfolio is a modern personal website that showcases my projects, techn
 
 ## 🚀 Features
 - **Responsive Design:** Optimized layout for mobile, tablet, and desktop viewports.
-- **Modern Minimalist UI:** Futuristic dark theme featuring an interactive glow aura background.
+- **Modern Minimalist UI:** Futuristic dark theme featuring deep color gradients.
 - **Interactive Navigation:** Smooth, dynamic, and intuitive scrolling ecosystem.
 - **Semantic HTML5 Structure:** Clean and structured code base utilizing modern semantic tags for accessibility.
 - **Project Showcase:** Transparent classification for personal and collaborative software/IoT works.
@@ -35,7 +37,7 @@ Virnara Portfolio is a modern personal website that showcases my projects, techn
 ### Design & Layout
 - Flexbox & Grid Systems
 - Responsive Viewports
-- Dynamic Cursor Interaction
+- Gradient UI Components
 
 ### Deployment
 - GitHub Pages
