@@ -53,7 +53,8 @@ virnara.github.io/
 │   │   └── style.css
 │   ├── images/
 │   │   ├── logo-transparent.png
-│   │   └── preview.png
+│   │   ├── preview.png
+│   │   └── smart-air-monitor.png
 │   └── js/
 │       └── script.js
 ├── index.html
